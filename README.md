@@ -3,6 +3,9 @@ pulse.js
 
 > Lightweight communication layer with phonegap
 
+### How to install
+
+`bower install pulse.js`
 
 ### Examples
 
