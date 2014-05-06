@@ -1,0 +1,22 @@
+{
+  "name": "pulse.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/StreetHub/pulse.js",
+  "authors": [
+    "Arnaud Benard <arnaud@streethub.com>"
+  ],
+  "description": "Lightweight communication layer with phonegap",
+  "keywords": [
+    "phonegap",
+    "cordova",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
