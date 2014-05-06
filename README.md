@@ -27,4 +27,4 @@ Pulse.beat('MapKit.moveCenter', function(res) {
 
 ### To do
 
-- Extend to read and send objects nd arrays.
+- Extend to read and send objects and arrays.
