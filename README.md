@@ -9,7 +9,7 @@ pulse.js
 ```js
 // Listen to event
 Pulse.listen('mapKit.didSelectAnnotationView', function(res) {
-     console.log(# mapKit.didSelectAnnotationView callback');
+     console.log('# mapKit.didSelectAnnotationView callback');
 });
 ```
 
