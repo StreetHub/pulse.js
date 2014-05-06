@@ -1,0 +1,19 @@
+{
+  "name": "pulse.js",
+  "version": "0.0.0",
+  "description": "pulse.js ========",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/StreetHub/pulse.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StreetHub/pulse.js/issues"
+  },
+  "homepage": "https://github.com/StreetHub/pulse.js"
+}
